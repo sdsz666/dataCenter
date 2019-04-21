@@ -2,7 +2,7 @@ package services
 
 import (
 	"github.com/gin-gonic/gin"
-	model "myDemo/dataFactory/api/models"
+	model "dataCenter/api/models"
 	"net/http"
 	"strconv"
 )

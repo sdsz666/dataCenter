@@ -1,7 +1,7 @@
 package models
 
 import (
-	orm "myDemo/dataFactory/utils/dbTools"
+	orm "dataCenter/utils/dbTools"
 )
 
 type User struct {

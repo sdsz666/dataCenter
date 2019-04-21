@@ -1,8 +1,8 @@
 package main
 
 import (
-	"myDemo/dataFactory/utils/dbTools"
-	"myDemo/dataFactory/api/controllers"
+	"dataCenter/utils/dbTools"
+	"dataCenter/api/controllers"
 )
 
 func main() {
